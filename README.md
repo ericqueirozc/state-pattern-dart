@@ -1,9 +1,5 @@
-# state-pattern-dart
-Estudo sobre o padrão State implementado usando Dart.
-# Padrão de Projeto: state
 
-Created: July 15, 2024 1:13 PM
-Tags: Padrão de Projeto, Programação
+Estudo sobre o padrão de projeto State implementado usando Dart.
 
 # Padrão de Projeto: State
 
