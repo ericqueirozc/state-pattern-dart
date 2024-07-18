@@ -1,5 +1,6 @@
 
 Estudo sobre o padrão de projeto State implementado usando Dart.
+referência: https://refactoring.guru/design-patterns/state
 
 # Padrão de Projeto: State
 
@@ -27,7 +28,11 @@ Nem todos os métodos do contexto devem ser implementados pelo estado, apenas os
 O cliente deve chamar o método do contexto. Se for um dos métodos do estado, o contexto apenas chama a referência do estado atual e utiliza o método dessa instância.
 
 
-
 ## Exemplo
 
 Pressionar o botão principal de um iPhone SE quando o estado do celular é “bloqueado” serve para abrir a tela de desbloqueio, caso o celular já esteja destravado o usuário é levado para a tela inicia do sistema operacional.
+
+## Execução do código presente no main.dart
+<img width="612" alt="Captura de Tela 2024-07-18 às 19 30 22" src="https://github.com/user-attachments/assets/e7d36d9c-cc08-49e1-8258-d589d3c1db27">
+
+
