@@ -26,9 +26,7 @@ Nem todos os métodos do contexto devem ser implementados pelo estado, apenas os
 
 O cliente deve chamar o método do contexto. Se for um dos métodos do estado, o contexto apenas chama a referência do estado atual e utiliza o método dessa instância.
 
-![State.drawio.svg](Padra%CC%83o%20de%20Projeto%20state%20bff55d619eee4ed5896c904e84d8ecbd/State.drawio.svg)
 
-![State.drawio.svg](Padra%CC%83o%20de%20Projeto%20state%20bff55d619eee4ed5896c904e84d8ecbd/State.drawio%201.svg)
 
 ## Exemplo
 
