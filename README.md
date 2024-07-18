@@ -4,7 +4,7 @@ referência: https://refactoring.guru/design-patterns/state
 
 # Padrão de Projeto: State
 
-O padrão State é classificado como [Padrão de projeto comportamental](https://www.notion.so/Padr-o-de-projeto-comportamental-16015f0ead8143a48c26b630c170f95a?pvs=21) e está fortemente relacionado com a [Maquina de estado finito](https://www.notion.so/Maquina-de-estado-finito-aafb5b2a59c14ff59377aa9662eef256?pvs=21).
+O padrão State é classificado como [Padrão de projeto comportamental]([https://www.notion.so/Padr-o-de-projeto-comportamental-16015f0ead8143a48c26b630c170f95a?pvs=21](https://refactoring.guru/design-patterns/behavioral-patterns)) e está fortemente relacionado com a [Maquina de estado finito](https://en.wikipedia.org/wiki/Finite-state_machine).
 
 Ele sugere que numa situação onde um objeto tenha comportamentos diferentes a depender de um estado interno e que a lógica de escolha (if ou switch-cases) esteja ficando muito complexa os estados sejam divididos em classes e o comportamento especifico de cada estado seja implementado dentro de sua própria classe.
 
