@@ -1,5 +1,6 @@
 
 Estudo sobre o padrão de projeto State implementado usando Dart.
+referência: https://refactoring.guru/design-patterns/state
 
 # Padrão de Projeto: State
 
